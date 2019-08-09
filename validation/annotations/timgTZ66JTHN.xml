@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>timgTZ66JTHN.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\timgTZ66JTHN.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>29</ymin>
+			<xmax>315</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

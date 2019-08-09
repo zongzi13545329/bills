@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>timgHP3X6PON.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\timgHP3X6PON.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>1244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>324</ymin>
+			<xmax>509</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

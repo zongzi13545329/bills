@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>IMG_20190807_160043.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\IMG_20190807_160043.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>712</ymin>
+			<xmax>2508</xmax>
+			<ymax>1305</ymax>
+		</bndbox>
+	</object>
+</annotation>

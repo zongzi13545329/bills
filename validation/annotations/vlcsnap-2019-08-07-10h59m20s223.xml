@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>vlcsnap-2019-08-07-10h59m20s223.png</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\vlcsnap-2019-08-07-10h59m20s223.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>414</ymin>
+			<xmax>520</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

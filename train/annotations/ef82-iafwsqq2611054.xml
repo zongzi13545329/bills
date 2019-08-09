@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>ef82-iafwsqq2611054.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\ef82-iafwsqq2611054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>27</ymin>
+			<xmax>329</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

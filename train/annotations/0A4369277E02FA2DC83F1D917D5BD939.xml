@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>0A4369277E02FA2DC83F1D917D5BD939.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\0A4369277E02FA2DC83F1D917D5BD939.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>244</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>36</ymin>
+			<xmax>154</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

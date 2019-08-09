@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>timgYSS7DW23.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\timgYSS7DW23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>822</xmin>
+			<ymin>912</ymin>
+			<xmax>2290</xmax>
+			<ymax>1982</ymax>
+		</bndbox>
+	</object>
+</annotation>

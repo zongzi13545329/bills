@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>timgD5I7NUB8.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\timgD5I7NUB8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>309</ymin>
+			<xmax>399</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>

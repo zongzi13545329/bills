@@ -1,0 +1,26 @@
+<annotation>
+	<folder>海报图片</folder>
+	<filename>timgIROG1EDB.jpg</filename>
+	<path>C:\Users\YCKJ1413\Pictures\海报图片\timgIROG1EDB.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4090</width>
+		<height>2726</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>488</ymin>
+			<xmax>2058</xmax>
+			<ymax>2416</ymax>
+		</bndbox>
+	</object>
+</annotation>
